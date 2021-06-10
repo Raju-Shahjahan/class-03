@@ -1,0 +1,61 @@
+h1{
+    color: cornflowerblue;
+}
+h4{
+    color: tomato;
+}
+ol{
+    color: teal;
+}
+
+.all{
+    width: 500px;
+    height: 350px;
+    border: 2px solid grey;
+    background: rgb(240, 236, 236);
+}
+
+
+
+.head{
+    border-bottom: 1px solid grey;
+    text-align: center;
+    height: 30px;
+}
+.nav{}
+.nav b{
+    display: flex;
+}
+.nav p{
+    text-align: center;
+    height: 32px;
+    border-bottom: 1px solid gray;
+}
+
+.aside{
+
+}
+
+.article{
+
+}
+.section{
+text-align: center;
+height: 220px;
+}
+.left{
+    float: left;
+    width: 35%;
+    border-right: 1px solid rgb(20, 20, 20);
+    height: 220px;
+}
+.right{
+    float: right;
+    width: 65%;
+}
+.footer{
+    border: 1px solid black;
+    width: 502px;
+    background-color: rgb(151, 148, 148);
+    text-align: center;
+}
